@@ -15,7 +15,7 @@
     z-index: 600;
 }
 
-.header-inner img{
+#header-inner img{
      width:100%;
      max-width:190px;
      min-width:170px;
