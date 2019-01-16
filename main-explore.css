@@ -5,6 +5,8 @@
 
 /* CSS UNTUK UNIVERSAL STYLING END */
 
+/* CSS UNTUK HEADER SECTION START */
+
 .header-container{
      background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(178, 0, 237, 1) 80%);
     width: 100%;
@@ -12,3 +14,12 @@
     box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.21);
     z-index: 600;
 }
+
+.header-inner img{
+     width:100%;
+     max-width:190px;
+     min-width:170px;
+     height:auto;
+}
+
+/* CSS UNTUK HEADER SECTION END */
