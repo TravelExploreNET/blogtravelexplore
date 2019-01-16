@@ -1,4 +1,14 @@
 /* CSS UNTUK TAMPILAN UTAMA BLOG */
-
-
 /* PROGRAMING BY : HERI RISWANA/DIGITALDESIGN.WEB.ID/NETHER.NET : 2019 : WWW.TRAVELEXPLORE.NET */
+
+/* CSS UNTUK UNIVERSAL STYLING START */
+
+/* CSS UNTUK UNIVERSAL STYLING END */
+
+.header-container{
+     background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(178, 0, 237, 1) 80%);
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.21);
+    z-index: 600;
+}
